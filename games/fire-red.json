@@ -1,0 +1,18 @@
+{
+    "GAME_NAME": "Pokemon FireRed (16MB)",
+    "ORIGINAL_GAME": "Pokemon - FireRed Version (USA).gba",
+    "MODIFIED_GAME": "Pokemon - FireRed Version (USA)_random.gba",
+    "GAME_START" : "0x58",
+    "MAX_ROM_SIZE" : "0x1000000",
+    "FREE_SPACE_START": "0x710000",
+    "BANK_TABLE_OFFSET": "0x055244",
+    "BANK_TABLE_BANKS_POSITION" : 2,
+    "MAP_NAMES_TABLE_OFFSET": "0x3F1CAC",
+    "REGION_MAP_BYTE" : 20,
+    "BANKS_TO_PRINT": 50,  
+    "MAPS_PER_BANK_TO_PRINT": 130,
+    "MAX_ITEM_ID": 374,
+    "POKEBALL_SPRITE_ID": 92,
+    "ITEMS_POINTER_OFFSET": "0x1C8",
+    "ITEM_STRUCT_SIZE": 44
+}
