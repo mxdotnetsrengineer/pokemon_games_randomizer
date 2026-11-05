@@ -1,9 +1,9 @@
 # Objective
 This script (or gui in the future) wants to be a randomizer for all the possible pokemon games. Allow any developer to add a pokemon game/fan game randomizer with only a config file.
 
-# Pokémon ROM Randomizer & Decryptor
+# Pokémon Games Randomizer & Decryptor
 
-This project is a Python-based tool designed to parse, decrypt, and randomize binary structures, I am stating with Generation III Pokémon GBA ROMs. It features initial optimized support for Pokémon FireRed and 1 fan game.
+This project is a Python-based tool designed to parse, decrypt, and randomize binary structures, I am starting with Generation III Pokémon GBA Games. It features initial optimized support for Pokémon FireRed and 1 fan game.
 
 ---
 
